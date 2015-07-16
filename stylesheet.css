@@ -1,0 +1,114 @@
+
+body {
+ background:#222; 
+}
+.container {
+  margin: 3px 0 0 -14px;
+  width:400px;
+}
+
+.tw-icon {
+  margin:0 auto;
+}
+
+/* ----------------------------------
+Twitter popup notification
+------------------------------------ */
+.notification-box {
+  border:1px solid #000;
+  border-radius:5px;
+  background:-webkit-linear-gradient(#fff 0%, #ccc);
+  position:relative;
+  margin:20px 0 0 0;
+  padding-bottom:10px;
+}
+
+
+
+/* ----------------------------------
+twitter tweets 
+------------------------------------ */
+.list {
+  border-bottom:1px solid #999;
+  padding: 8px;
+  position: relative;
+  min-height: 65px;
+  box-shadow:0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.list .avatar {
+  float:left;
+  margin-right:10px;
+}
+.list .content {
+  font-size:12px;
+  margin-right:20px;
+}
+.list .time {
+  position:absolute;
+  right:0;
+  top:0;
+  margin:10px 10px 0 0;
+  font-style:normal;
+  font-size:11px;
+  color:#aaa;
+}
+.list:last-child {
+  box-shadow:none;
+  border:0;
+}
+
+.vincent {
+    margin: 4%;
+}
+
+/* ----------------------------------
+jumbotron 
+------------------------------------ */
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://hdrtist.files.wordpress.com/2013/01/hg-2.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.2em 0.2em 0.2em;
+}
+
+/* ----------------------------------
+main paragraph and call to action and order form
+------------------------------------ */
+
+.col-sm-6 {
+    background-color:#ECE3D9; 
+    height:auto;
+
+  }
+.nome {
+  margin: 2%;
+}
+
+.form-group3 {
+  margin: 14px 0 14px 0px;
+  
+}
+
+.form-group6 {
+  margin: 14px 0 0 0px;
+}
+
+.control {
+  margin: 8px 0 0 4px;
+  width: 117px;
+}
+.card-type {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+button.btn.btn-primary {
+  margin: 13px 2px 17px 5px;
+}
+
+
+
